@@ -3,4 +3,4 @@
 - Made with HTML, CSS, Javascript
 
 # PHOTO:
-![image](https://github.com/user-attachments/assets/1cc0d32b-ec43-4cef-8f28-c346c3e35ced)
+![image](https://github.com/user-attachments/assets/70b37ea0-e121-4aeb-bda0-a342c486122b)
